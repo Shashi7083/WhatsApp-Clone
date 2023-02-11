@@ -9,9 +9,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/whatsapp"
+        android:icon="@mipmap/whatsappicon"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/whatsapp"
+        android:roundIcon="@mipmap/whatsappicon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WhatsappClone"
         tools:targetApi="31">
